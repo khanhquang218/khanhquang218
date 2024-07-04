@@ -82,6 +82,6 @@
 
 ## Snake eating my github contributions
 
-<img src="https://raw.githubusercontent.com/khanhquang218/khanhquang218/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/khanhquang218/khanhquang218/blob/output/snake.svg" alt="Snake animation" />
 
 ###
