@@ -18,10 +18,13 @@
 
 <div align="center">
   <a href="https://www.facebook.com/trieukhanhquang" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kh%C3%A1nh-quang-tri%E1%BB%87u-63b1a9317/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/1000432657378852994" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
 
@@ -31,7 +34,7 @@
 
 ###
 
-<img align="right" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM"  />
+<img align="right" height="230" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM"  />
 
 ###
 
@@ -83,6 +86,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khanhquang218&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=khanhquang218%20(Tri%E1%BB%87u%20Kh%C3%A1nh%20Quang)" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">🔥   Snake eating my Github contributions</h3>
 
 ###
 
