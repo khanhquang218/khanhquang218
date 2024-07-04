@@ -1,3 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=khanhquang218.khanhquang218&left_color=yellow&right_color=tomato"  />
+
+###
+
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
@@ -39,6 +43,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhquang218&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=khanhquang218%20(Tri%E1%BB%87u%20Kh%C3%A1nh%20Quang)" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -75,13 +86,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhquang218&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=khanhquang218%20(Tri%E1%BB%87u%20Kh%C3%A1nh%20Quang)" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-## Snake eating my github contributions
-
-<img src="https://github.com/khanhquang218/khanhquang218/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/khanhquang218/khanhquang218/output/snake.svg" alt="Snake animation" />
 
 ###
