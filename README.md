@@ -80,7 +80,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhquang218&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=khanhquang218%20(Tri%E1%BB%87u%20Kh%C3%A1nh%20Quang)" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhquang218&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=khanhquang218%20(Tri%E1%BB%87u%20Kh%C3%A1nh%20Quang)" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/khanhquang218/khanhquang218/output/snake.svg" alt="Snake animation" />
+
+###
