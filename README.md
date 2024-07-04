@@ -84,8 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/khanhquang218/khanhquang218/output/snake.svg" alt="Snake animation" />
-
-###
