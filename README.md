@@ -35,7 +35,7 @@
   </a>
 </div>
 
-###
+<br>
 
 <h2 align="left">👩‍💻  About me</h2>
 
@@ -47,7 +47,7 @@
 
 <p align="left">🌱 I’m currently learning ReactJS, NodeJS<br><br>🤝 I’m looking for help with Front-End<br><br>💬 Ask me about HTML, CSS, JavaScript, ReactJS, NodeJS<br><br>⚡ Enjoy playing badminton and video games<br><br>📫 How to reach me: khanhquang213@gmail.com<br><br>💬 If can not contact to me via email, please call: (+84) 938533880</p>
 
-###
+<br>
 
 <h2 align="left">🛠 Technologies and Tools</h2>
 
@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
+<br>
 
 <h2 align="left">🔥   My Github Stats</h2>
 
@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhquang218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
+<br>
 
 <h2 align="left">🔥   Snake eating my Github contributions</h2>
 
