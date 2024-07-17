@@ -9,10 +9,14 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Triệu Khánh Quang</h1>
-
-###
-
-<h3 align="center">I am an IT engineer from Ho Chi Minh City, Viet Nam</h3>
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am an IT engineer from <b>Ho Chi Minh City, Viet Nam</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 ###
 
@@ -26,11 +30,14 @@
   <a href="https://discord.com/users/1000432657378852994" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
+  <a href="https://www.instagram.com/khanhquang218/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About me</h2>
 
 ###
 
@@ -38,11 +45,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning ReactJS, NodeJS<br><br>🤝 I’m looking for help with Front-End<br><br>💬 Ask me about HTML, CSS, JavaScript, ReactJS, NodeJS<br><br>📫 How to reach me: khanhquang213@gmail.com<br><br>⚡ Fun fact I think I am funny<br><br>💬 If can not contact to me via email, please call:<br><br>(+84) 938533880</p>
+<p align="left">🌱 I’m currently learning ReactJS, NodeJS<br><br>🤝 I’m looking for help with Front-End<br><br>💬 Ask me about HTML, CSS, JavaScript, ReactJS, NodeJS<br><br>⚡ Enjoy playing badminton and video games<br><br>📫 How to reach me: khanhquang213@gmail.com<br><br>💬 If can not contact to me via email, please call: (+84) 938533880</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Technologies and Tools</h2>
 
 ###
 
@@ -78,7 +85,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Github Stats</h2>
 
 ###
 
@@ -89,7 +96,7 @@
 
 ###
 
-<h3 align="left">🔥   Snake eating my Github contributions</h3>
+<h2 align="left">🔥   Snake eating my Github contributions</h2>
 
 ###
 
