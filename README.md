@@ -19,7 +19,31 @@
 </p>
 
 ###
+<!--
+<h2 align="center">🧑‍🦯 Where to find me 🧑‍🦯</h2>
+<br>
+<div align="center">
+  <a href="mailto:quangdvo11311@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+  </a>
+   <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-quang-v%C3%B5-427659308/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/vd.wangg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
+  </a>
+  <a href="https://www.instagram.com/vd.wangg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
+  </a>
+  <a href="https://discord.com/users/493459039041093652" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=114892&format=png&color=000000" alt="discord"/>
+  </a>
+  <a href="https://twitter.com/mavisstarkvo" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="X"/>
+  </a>
+ <br>
 
+</div> -->
 <div align="center">
   <a href="https://www.facebook.com/trieukhanhquang" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
